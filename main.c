@@ -1,3 +1,14 @@
+//=======================================================================================================//
+// Projet : Jeu de Nim                                                                                   //
+// Version : 0.1                                                                                         //
+// Fichier : main.c                                                                                      //
+// Auteur : Rémy (CAROTORO) Tiziano (Tizaming)                                                           //
+// Date de création : 16/09/2022                                                                         //
+// Date de la dernière modification : 16/09/2022                                                         //
+// Idées d'amélioration : -Avoir une IA imbattable                                                       //
+//                        -Avoir le choix entre l'IA imbattable et l'IA lambda (comme Lou a fait)        //
+//=======================================================================================================//
+
 #include <stdio.h>
 #include <stdlib.h>  
 
