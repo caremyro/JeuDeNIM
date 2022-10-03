@@ -4,8 +4,7 @@
 // Fichier : main.c                                                                                      //
 // Auteurs : Rémy (CAROTORO) & Tiziano (Tizaming)                                                        //
 // Date de création : 16/09/2022                                                                         //
-// Date de la dernière modification : 26/09/2022                                                         //
-// Idées d'amélioration : Finir quelques trucs                                                           //
+// Date de la dernière modification : 30/09/2022                                                         //
 //=======================================================================================================//
 
 #include <stdio.h>
